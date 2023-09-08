@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Captura del componente <Header.jsx> Fotito :3 1`] = `
+<div>
+  <div>
+    <nav
+      class="navbar"
+    >
+      <a
+        class="toggle"
+        href="#"
+      >
+        <span
+          class="bar"
+        />
+        <span
+          class="bar"
+        />
+        <span
+          class="bar"
+        />
+        <span
+          class="bar"
+        />
+      </a>
+      <div
+        class="navbar-links"
+      >
+        <ul>
+          <li>
+            <a
+              href="#"
+            >
+              Nav1
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Nav2
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Nav3
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Nav4
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Nav5
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</div>
+`;
